@@ -1,0 +1,12 @@
+header{
+    background-color: #111112;
+ color: #FFFFFF;
+   display:flex;
+}
+.cabeçalho-imagem{
+    width: 20%;
+}
+.cabeçalho-lista-item{
+    display:inline-block
+    
+}
